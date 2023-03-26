@@ -1,5 +1,5 @@
 # student_details
-my college assignment creating a form using html
+Simple form using html
 
 using the followig elements
 
