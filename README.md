@@ -13,7 +13,6 @@ using the followig elements
 - Colour picker
 - File picker
 - Number field (values accepted between 2 to 8)
-- Range field (values accepted between 10 to 35 with step of 5)
 - Reset button
 - Submit button
 
